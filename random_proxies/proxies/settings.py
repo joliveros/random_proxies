@@ -4,7 +4,7 @@ from __future__ import absolute_import, unicode_literals
 __version__ = '0.0.2'
 
 BASE_URL = 'https://free-proxy-list.net/'
-SSL_URL = 'http://sslproxies.org/'
+SSL_URL = 'https://sslproxies.org/'
 SOCKS_URL = 'https://www.socks-proxy.net/'
 TEST_URL = 'https://httpbin.org'
 
